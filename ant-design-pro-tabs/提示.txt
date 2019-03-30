@@ -1,0 +1,1 @@
+github不允许上传单个文件大于100MB,所以分包,下载这四个文件解压放在ant-design-pro-tabs项目中即可使用
